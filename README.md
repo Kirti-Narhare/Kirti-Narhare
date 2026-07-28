@@ -3,42 +3,42 @@
 
 ---
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Akshata-Jade&label=Profile%20views&color=0e75b6&style=flat" alt="Akshata-Jade" />
+  <img src="https://komarev.com/ghpvc/?username=kirti-narhare&label=Profile%20views&color=0e75b6&style=flat" alt="kirti-narhare" />
 </p>
 
 ---
 
 ### 🚀 About Me
-I am a data-driven analyst with a strong interest in statistical modeling, machine learning, and data visualization.  
-Currently pursuing a **B.Sc. in Applied Statistics & Data Analytics** at **MIT World Peace University**, I enjoy working with data to uncover insights that support informed decision-making.
+Hi, I'm Kirti!
+
+I'm an Applied Statistics and Data Analytics student passionate about turning data into meaningful insights. I enjoy working with Python, SQL, Excel, Tableau, and statistics to analyze data and solve problems.
 
 I am passionate about transforming complex datasets into meaningful insights through analysis, modeling, and clear visual storytelling.
 
-📍 **Pune, Maharashtra, India**  
-📫 **Email:** akshatajade27@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/akshata-jade  
-🌐 **GitHub Portfolio:** https://github.com/Akshata-Jade  
+📍 **Mumbai, Maharashtra, India**  
+📫 **Email:** kirtinarhare432@gmail.com 
+🔗 **LinkedIn:** https://linkedin.com/in/kirt-narhare
+🌐 **GitHub Portfolio:** https://github.com/kirti-narhare 
 
 ---
 
 ### 📊 Featured Projects
 
-#### 🐟 Fish and Glass Dataset Analysis
-- **Goal:** Predict abalone age using biological features  
-- **Tech:** Python, Pandas, Scikit-learn, Matplotlib  
-- **Data Size:** 4,177 observations, 9 features  
-- **Results:**  
-  - Achieved **83.97% pseudo-accuracy** using Random Forest  
-  - Improved regression performance through feature engineering  
-  - Communicated insights using visualizations and feature importance plots  
-- 🔗 Repo: https://github.com/Akshata-Jade  
+#### 📊 Student Performance Analysis
+- Analyzed student performance data using Python.
+- Performed data cleaning, exploratory data analysis (EDA), and data visualization.
+- Libraries Used: Pandas, NumPy, Matplotlib, Seaborn.
+  ### 📉 Tableau Dashboards
+- Built interactive dashboards to visualize business performance and sales metrics.
+- Used filters, calculated fields, and charts to improve data storytelling.
+- 🔗 Repo: https://github.com/kirti-narhare 
 
 ---
 
 ### 🛠️ Skills & Technologies
 
 #### Programming Languages:
-`Python` • `R` • `SQL` • `HTML5` • `CSS3`
+`Python` • `R` • `SQL` • `HTML5` •
 
 #### Data Science & ML Libraries:
 `Pandas` • `NumPy` • `Matplotlib` • `Scikit-learn` • `BeautifulSoup`
@@ -51,7 +51,8 @@ I am passionate about transforming complex datasets into meaningful insights thr
 
 #### Core Concepts:
 Exploratory Data Analysis • Statistical Modeling • Hypothesis Testing •  
-Regression Analysis • Machine Learning • Business Intelligence
+Regression Analysis • Machine Learning • Business Intelligence• Descriptive Statistics (Mean, Median, Mode) • Variance & Standard Deviation • Probability
+• Probability Distributions • Confidence Intervals • Correlation • Covariance • ANOVA • Chi-Square Test
 
 #### Languages:
 English (Fluent) • Hindi (Native) • Marathi (Native)
@@ -59,27 +60,13 @@ English (Fluent) • Hindi (Native) • Marathi (Native)
 ---
 
 ### 🏆 Certifications & Training
-- **Deloitte Australia – Data Analytics Job Simulation (2025)**  
+- **Deloitte Australia – Data Analytics Job Simulation (2026)**  
   - Created Tableau dashboards and Excel-based business analysis for client scenarios  
-- **Tata Consultancy Services – Data Visualisation Job Simulation (2026)**  
-  - Developed executive-level data visualizations and insights presentations  
-- **Statistics Certification (2026)**
-
----
-
-### 🏛️ Experience
-**Active Member — Numerates Club**  
-*Mathematics Department, MIT World Peace University*  
-**Oct 2025 – July 2026**  
-- Collaborated with cross-functional teams on educational content and technical workshops  
-- Built analytical thinking, teamwork, and communication skills through project-based work  
-
----
 
 ### 📚 Education
 **MIT World Peace University, Pune**  
 Bachelor of Science — Applied Statistics & Data Analytics  
-**CGPA:** 9.10/ 10  
+**CGPA:** 8.49/ 10  
 
 **Relevant Coursework:**  
 Probability & Statistics • Machine Learning • Statistical Computing •  
@@ -89,9 +76,9 @@ Data Visualization • Regression Analysis • Hypothesis Testing
 
 ### 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshata-jade)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Akshata-Jade)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akshatajade27@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/kirti-narhare-200622330?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![GitHub](https://github.com/Kirti-Narhare/Kirti-Narhare/edit/main/README.md)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kirtinarhare432@gmail.com)
 
 ---
 ⭐ *Open to learning, collaboration, and data-driven opportunities*
