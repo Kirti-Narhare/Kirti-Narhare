@@ -61,7 +61,10 @@ English (Fluent) • Hindi (Native) • Marathi (Native)
 
 ### 🏆 Certifications & Training
 - **Deloitte Australia – Data Analytics Job Simulation (2026)**  
-  - Created Tableau dashboards and Excel-based business analysis for client scenarios  
+  - Created Tableau dashboards and Excel-based business analysis for client scenarios
+ 
+  - **Tata Consultancy Services – Data Visualisation Job Simulation (2026)**
+    -Developed executive-level data visualizations and insights presentations
 
 ### 📚 Education
 **MIT World Peace University, Pune**  
