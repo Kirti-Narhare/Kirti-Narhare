@@ -3,7 +3,7 @@
 
 ---
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kirti-narhare&label=Profile%20views&color=0e75b6&style=flat" alt="kirti-Narhare" />
+  <img src="https://komarev.com/ghpvc/?username=kirti-Narhare&label=Profile%20views&color=0e75b6&style=flat" alt="kirti-Narhare" />
 </p>
 
 ---
@@ -17,8 +17,8 @@ I am passionate about transforming complex datasets into meaningful insights thr
 
 📍 **Mumbai, Maharashtra, India**  
 📫 **Email:** kirtinarhare432@gmail.com 
-🔗 **LinkedIn:** https://linkedin.com/in/kirt-narhare
-🌐 **GitHub Portfolio:** https://github.com/kirti-narhare 
+🔗 **LinkedIn:** https://linkedin.com/in/kirti-narhare
+🌐 **GitHub Portfolio:** https://github.com/kirti-Narhare 
 
 ---
 
