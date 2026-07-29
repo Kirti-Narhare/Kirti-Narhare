@@ -3,7 +3,7 @@
 
 ---
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kirti-narhare&label=Profile%20views&color=0e75b6&style=flat" alt="kirti-narhare" />
+  <img src="https://komarev.com/ghpvc/?username=kirti-narhare&label=Profile%20views&color=0e75b6&style=flat" alt="kirti-Narhare" />
 </p>
 
 ---
@@ -31,7 +31,7 @@ I am passionate about transforming complex datasets into meaningful insights thr
   ### 📉 Tableau Dashboards
 - Built interactive dashboards to visualize business performance and sales metrics.
 - Used filters, calculated fields, and charts to improve data storytelling.
-- 🔗 Repo: https://github.com/kirti-narhare 
+- 🔗 Repo: https://github.com/kirti-Narhare 
 
 ---
 
